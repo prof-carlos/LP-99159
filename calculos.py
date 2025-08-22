@@ -1,6 +1,3 @@
-import os 
-os.system("cls")
-
 # n1 = float("10")
 # n1 = 10
 
@@ -16,5 +13,4 @@ print(f"Soma: {soma}")
 print(f"Subtração: {subtracao}")
 print(f"Multiplicação: {multiplicacao}")
 print(f"Divisão: {divisao}")
-
 
